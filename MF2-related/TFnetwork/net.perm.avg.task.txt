@@ -1,0 +1,7 @@
+Rscript net.perm.avg.R 1
+Rscript net.perm.avg.R 2
+Rscript net.perm.avg.R 3
+Rscript net.perm.avg.R 4
+Rscript net.perm.avg.R 5
+Rscript net.perm.avg.R 6
+Rscript net.perm.avg.R 7
