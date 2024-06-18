@@ -10,4 +10,5 @@ Additional disease-relevant codes can be found here: [https://github.com/xoelmb/
 
 ## Data Availability
 Single cell RNA-seq data were deposited in NEMO Archive (RRID: SCR_002001), which can be accessed at [https://assets.nemoarchive.org/datfjx1jbr](https://assets.nemoarchive.org/datfjx1jbr), and NCBI GEO [GSE226451](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE226451). The data can be visualized at [resources.sestanlab.org/devmacaquebrain](http://resources.sestanlab.org/devmacaquebrain).
+The processed scRNA-seq data in seurat/h5ad format is available in AWS: [Seurat](https://sestanlab-public-data.s3.amazonaws.com/Dev_macaque_Ma_2023/test/Macaque.dev.seurat.RefSeq.rds), [h5ad](https://sestanlab-public-data.s3.amazonaws.com/Dev_macaque_Ma_2023/test/Macaque.dev.RefSeq.h5ad).
 
